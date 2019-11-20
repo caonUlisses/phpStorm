@@ -19,8 +19,8 @@
     <mask>*.css</mask>
     <mask>*urp*.php</mask>
     <mask>*</mask>
-    <mask>*.js</mask>
     <mask>*.phtml</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
