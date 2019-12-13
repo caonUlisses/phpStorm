@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -24,10 +24,10 @@
     <mask>*Version*.php</mask>
     <mask>*.ts</mask>
     <mask>*Service*.php</mask>
-    <mask>*.phtml</mask>
     <mask>*Repository*.php</mask>
     <mask>*.php</mask>
     <mask>*Controller*.php</mask>
     <mask>*</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
