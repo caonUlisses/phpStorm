@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Jasper">
+      <action id="Replace" />
+      <typing text-keycode="57:1;48:1">()</typing>
+      <shortuct text="LEFT" />
+      <typing text-keycode="92:0;83:0;92:0;57:1">\s\(</typing>
+      <shortuct text="RIGHT" />
+      <typing text-keycode="59:1;57:1;48:1">:()</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="$SelectAll" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="57:1;48:1">()</typing>
+      <shortuct text="LEFT" />
+      <typing text-keycode="91:0;93:0">[]</typing>
+      <shortuct text="LEFT" />
+      <typing text-keycode="92:0;83:0;92:0;57:1">\s\(</typing>
+      <shortuct text="RIGHT" />
+      <shortuct text="RIGHT" />
+      <typing text-keycode="59:1;92:0">:\</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="57:1;48:1">()</typing>
+      <shortuct text="LEFT" />
+      <typing text-keycode="92:0;87:0;61:1">\w+</typing>
+      <shortuct text="TAB" />
+      <typing text-keycode="52:1;81:0">$q</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="49:0;92:0">1\</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="80:1;92:0;52:1;92:0;91:1;52:1;50:0;92:0;93:1">P\$\{$2\}</typing>
+      <shortuct text="alt A" />
+      <shortuct text="ESCAPE" />
+    </macro>
+  </component>
+</application>
