@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*Version*.php" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -19,7 +19,6 @@
     <mask>*usu*.php</mask>
     <mask>*Gesta*.php</mask>
     <mask>*.js</mask>
-    <mask>*Version*.php</mask>
     <mask>*.ts</mask>
     <mask>*Service*.php</mask>
     <mask>*Repository*.php</mask>
@@ -28,5 +27,6 @@
     <mask>*.*</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*Version*.php</mask>
   </component>
 </application>
