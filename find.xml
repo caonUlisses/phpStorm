@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*repository*.php" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -30,5 +31,6 @@
     <mask>*Version*.php</mask>
     <mask>*.jrxml</mask>
     <mask>*.php</mask>
+    <mask>*repository*.php</mask>
   </component>
 </application>
