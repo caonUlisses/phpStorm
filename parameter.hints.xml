@@ -2,5 +2,6 @@
   <component name="ParameterNameHintsSettings">
     <option id="sql.show.column.names.for.asterisk" value="true" />
     <option id="php.show.names.for.all.args" value="true" />
+    <option id="sql.show.column.names.in.select" value="true" />
   </component>
 </application>
