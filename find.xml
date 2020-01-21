@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*Service*.php" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -21,7 +21,6 @@
     <mask>*usu*.php</mask>
     <mask>*Gesta*.php</mask>
     <mask>*.ts</mask>
-    <mask>*Service*.php</mask>
     <mask>*Controller*.php</mask>
     <mask>*</mask>
     <mask>*.*</mask>
@@ -35,5 +34,6 @@
     <mask>*.php</mask>
     <mask>*Version*.php</mask>
     <mask>*.js</mask>
+    <mask>*Service*.php</mask>
   </component>
 </application>
