@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Version*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -18,7 +20,6 @@
     <mask>*urp*.php</mask>
     <mask>*usu*.php</mask>
     <mask>*Gesta*.php</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*Service*.php</mask>
     <mask>*Controller*.php</mask>
@@ -33,5 +34,6 @@
     <mask>Reposi*.php</mask>
     <mask>*.php</mask>
     <mask>*Version*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
