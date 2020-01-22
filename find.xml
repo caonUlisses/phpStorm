@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -24,7 +24,6 @@
     <mask>*Controller*.php</mask>
     <mask>*</mask>
     <mask>*.*</mask>
-    <mask>*.phtml</mask>
     <mask>*.jrxml</mask>
     <mask>*repository*.php</mask>
     <mask>*controller*.php</mask>
@@ -32,8 +31,9 @@
     <mask>*Repository*.php</mask>
     <mask>Reposi*.php</mask>
     <mask>*Version*.php</mask>
-    <mask>*.js</mask>
     <mask>*Service*.php</mask>
+    <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
