@@ -2,4 +2,7 @@
   <PHPCodeStyleSettings>
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="160" />
+  </codeStyleSettings>
 </code_scheme>
