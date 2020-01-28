@@ -28,9 +28,9 @@
     <mask>Reposi*.php</mask>
     <mask>*Service*.php</mask>
     <mask>*.*</mask>
-    <mask>*.phtml</mask>
     <mask>*Version*.php</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
