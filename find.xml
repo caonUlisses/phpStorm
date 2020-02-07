@@ -26,12 +26,12 @@
     <mask>*form*.php</mask>
     <mask>*Repository*.php</mask>
     <mask>Reposi*.php</mask>
-    <mask>*Service*.php</mask>
     <mask>*.*</mask>
     <mask>*Controller*.php</mask>
     <mask>*.phtml</mask>
     <mask>*Version*.php</mask>
     <mask>*.js</mask>
+    <mask>*Service*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
