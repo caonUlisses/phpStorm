@@ -32,6 +32,7 @@
     <mask>*Version*.php</mask>
     <mask>*.js</mask>
     <mask>*Service*.php</mask>
+    <mask>*Entity*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
