@@ -29,11 +29,11 @@
     <mask>*.*</mask>
     <mask>*Controller*.php</mask>
     <mask>*.phtml</mask>
-    <mask>*Version*.php</mask>
     <mask>*Service*.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*Repository*.php</mask>
     <mask>*Entity*.php</mask>
+    <mask>*Version*.php</mask>
   </component>
 </application>
